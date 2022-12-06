@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a href="/main">Main Page</a>
+<div>Лабораторная работа 2</div>
+<div>
+    <div>
+        <label>a.  «Склеить» первые i битов с последними j битами из целого числа длиной
+            len битов. Пример. Пусть есть 12-ти разрядное целое число, представленное
+            в двоичной системе счисления 100011101101. «Склеим» первые 3 и
+            последние 3 бита, получим 100101</label>
+    </div>
+    <form method = "post">
+        <input type="text" name = "number" placeholder="Введите число">
+        <input type="text" name = "bitOfNumberI" placeholder="Введите номер бита i">
+        <button type="submit">Склеить</button>
+    </form>
+
+    <div>Результат: {{num}}</div>
+</div>
+
+</body>
+</html>

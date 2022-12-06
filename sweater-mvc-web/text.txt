@@ -1,0 +1,647 @@
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.
+Classical Algebra
+ work at the close of the 16th century, described in the section
+ and the formal equation, marks the start of the classical discipline 
+of algebra. Further developments included several related trends, among which
+ the following deserve special mention: the quest for systematic solutions of 
+higher order equations, including approximation techniques; the rise of polynomials
+ and their study as autonomous mathematical entities; and the increased adoption of
+ the algebraic perspective in other mathematical disciplines, such as geometry, analysis,
+ and logic. During this same period, new mathematical objects arose that eventually replaced
+ polynomials as the main focus of algebraic study.
+
+
+Analytic geometry
+The creation of what came to be known as analytic geometry can be attributed to
+ two great 17th-century French thinkers: Pierre de Fermat and Ren Descartes. Using 
+algebraic techniques developed by Vi??te and Girolamo Cardano, as described earlier in 
+this article, Fermat and Descartes tackled geometric problems that had remained unsolved
+ since the time of the classical Greeks. The new kind of organic connection that they 
+established between algebra and geometry was a major breakthrough, without which the
+ subsequent development of mathematics in general, and geometry and calculus in particular,
+ would be unthinkable.
+
+In his famous book La  (1637), Descartes established equivalences between 
+algebraic operations and geometric constructions. In order to do so, he introduced a
+ unit length that served as a reference for all other lengths and for all operations
+ among them. For example, suppose that Descartes was given a segment AB and was asked
+ to find its square root. He would draw the straight line DB (see the figure), where DA 
+was defined as the unit length. Then he would bisect DB at C, draw the semicircle on the 
+diameter DB with centre C, and finally draw the perpendicular from A to E on the semicircle. 
+Elementary properties of the circle imply that DEB = 90 , which in turn implies that
+ADE = AEB and DEA = EBA. Thus, DEA is similar to EBA, or in other words, the ratio 
+of corresponding sides is equal. Substituting x, 1, and y for AB, DA, and AE, respectively,
+ one obtains x/y = y/1. Simplifying, x = y2, or y is the square root of x. Thus, in what might
+ appear to be an ordinary application of classical Greek techniques, Descartes demonstrated
+that he could find the square root of any given number, as represented by a line segment. The
+ key step in his construction was the introduction of the unit length DA. This seemingly 
+trivial move, or anything similar to it, had never been done before, and it had enormous 
+repercussions for what could thereafter be done by applying algebraic reasoning to geometry.

@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a href="/main">Main Page</a>
+<div>Лабораторная работа 3</div>
+<div>
+    <div>
+        <label>Поменять местами байты в заданном 32-х разрядном целом числе.
+            Перестановка задается пользователем.</label>
+    </div>
+    <form method = "post">
+        <input type="text" name = "number" placeholder="Введите число">
+        <input type="text" name = "bitOfNumberI" placeholder="Введите номер байта i">
+        <input type="text" name = "bitOfNumberJ" placeholder="Введите номер байта j">
+        <button type="submit">Поменять местами байты</button>
+    </form>
+
+    <div>Результат: {{num}}</div>
+</div>
+
+</body>
+</html>

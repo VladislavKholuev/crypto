@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a href="/main">Main Page</a>
+<div>Лабораторная работа 3.4</div>
+<div>
+    <div>
+        <label> алгоритм rijndael </label>
+    </div>
+    <div>
+        <label>Закодировать файл</label>
+    </div>
+    <form method = "post" enctype="multipart/form-data" action="/encodeAES">
+        <input type="file" name="file" value="выбрать файл"><br />
+<!--        <label>название для файла</label>-->
+<!--        <input type="text" name="name"><br />-->
+        <br />
+        <input type="text" name = "number1" placeholder="ключ ">
+        <input type="text" name = "number2" placeholder="c0 ">
+
+        <input type="text" name = "numberMode" placeholder="ECB/CBC/CFB/OFB">
+        <input type="submit" value="Encode">
+        <br />
+        <label>ключ</label>
+        <input type = "radio"  name="rad" checked>
+        <label>16</label>
+        <input type = "radio" name="rad">
+        <label>24</label>
+        <input type = "radio" name="rad">
+        <label>32</label>
+        <label>блок</label>
+        <input type = "radio"  name="rad1" checked>
+        <label>16</label>
+        <input type = "radio" name="rad1">
+        <label>24</label>
+        <input type = "radio" name="rad1">
+        <label>32</label>
+
+        <br /> <br />
+    </form>
+    <div>
+        <label>Раскодировать файл</label>
+    </div>
+    <form method = "post" enctype="multipart/form-data" action="/decodeAES">
+        <input type="file" name="file" value="выбрать файл"><br />
+<!--        <label>название для файла</label>-->
+<!--        <input type="text" name="name"><br />-->
+        <br />
+        <input type="text" name = "number1" placeholder="ключ ">
+        <input type="text" name = "number2" placeholder="c0 ">
+        <input type="text" name = "numberMode" placeholder="ECB/CBC/CFB/OFB">
+        <input type="submit" value="Decode">
+        <br/>
+        <label>ключ</label>
+
+        <input type = "radio"  name="rad"checked>
+        <label>16</label>
+        <input type = "radio" name="rad">
+        <label>24</label>
+        <input type = "radio" name="rad">
+        <label>32</label>
+        <label>блок</label>
+        <input type = "radio"  name="rad1" checked>
+        <label>16</label>
+        <input type = "radio" name="rad1">
+        <label>24</label>
+        <input type = "radio" name="rad1">
+        <label>32</label>
+    </form>
+
+    <div>Результат: {{num}}</div>
+</div>
+
+</body>
+</html>

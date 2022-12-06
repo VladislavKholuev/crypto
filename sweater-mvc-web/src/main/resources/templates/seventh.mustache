@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a href="/main">Main Page</a>
+<div>Лабораторная работа 7</div>
+<div>
+    <div>
+        <label>Написать макросы циклического сдвига в 2^p разрядном целом числе на n бит
+            влево и вправо </label>
+    </div>
+    <div>
+        <form method = "post" action="/right">
+            <input type="text" name = "number" placeholder="Введите число">
+            <input type="text" name = "num_p" placeholder="Введите p">
+            <input type="text" name = "num_n" placeholder="Введите n">
+            <button type="submitFirst">сдвиг вправо</button>
+        </form>
+
+        <form method = "post" action="/left">
+            <input type="text" name = "number" placeholder="Введите число">
+            <input type="text" name = "num_p" placeholder="Введите p">
+            <input type="text" name = "num_n" placeholder="Введите n">
+            <button type="submitFirst">сдвиг влево</button>
+        </form>
+    </div>
+
+    <div>Результат: {{num}}</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a href="/main">Main Page</a>
+<div>Лабораторная работа 2.8</div>
+<div>
+    <div>
+        <label> алгоритм DES </label>
+    </div>
+    <div>
+        <label>Закодировать файл</label>
+    </div>
+    <form method = "post" enctype="multipart/form-data" action="/encodeDES">
+        <input type="file" name="file" value="выбрать файл"><br />
+        <label>название для файла</label>
+        <input type="text" name="name"><br />
+
+        <input type="text" name = "number1" placeholder="ключ (8bytes)">
+        <input type="text" name = "number2" placeholder="c0 (8bytes)">
+
+        <input type="text" name = "numberMode" placeholder="ECB/CBC/CFB/OFB">
+        <input type="submit" value="Encode">
+        <br /> <br />
+    </form>
+    <div>
+        <label>Раскодировать файл</label>
+    </div>
+    <form method = "post" enctype="multipart/form-data" action="/decodeDES">
+        <input type="file" name="file" value="выбрать файл"><br />
+        <label>название для файла</label>
+        <input type="text" name="name"><br />
+        <input type="text" name = "number1" placeholder="ключ (8bytes)">
+        <input type="text" name = "number2" placeholder="c0 (8bytes)">
+        <input type="text" name = "numberMode" placeholder="ECB/CBC/CFB/OFB">
+        <input type="submit" value="Decode">
+    </form>
+
+    <div>Результат: {{num}}</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+input[type="submit" i] {
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: red;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-image: initial;
+}

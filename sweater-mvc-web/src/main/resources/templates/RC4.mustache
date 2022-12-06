@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a href="/main">Main Page</a>
+<div>Лабораторная работа RC4</div>
+<div>
+    <div>
+        <label>Закодировать файл</label>
+    </div>
+    <form method = "post" enctype="multipart/form-data" action="/encodeRC4">
+        <input type="file" name="file" value="выбрать файл"><br />
+        <label>название для файла</label>
+        <input type="text" name="name">
+        <input type="text" name="key" value="ключ"><br /> <br />
+        <input type="submit" value="Encode">
+        <br /> <br />
+    </form>
+    <div>
+        <label>Раскодировать файл</label>
+    </div>
+    <form method = "post" enctype="multipart/form-data" action="/decodeRC4">
+        <input type="file" name="file" value="выбрать файл"><br />
+        <label>название для файла</label>
+        <input type="text" name="name">
+        <input type="text" name="key" value="ключ"><br /> <br />
+        <input type="submit" value="Decode">
+    </form>
+
+    <!--    <div>Результат: {{num}}</div>-->
+</div>
+
+</body>
+</html>
